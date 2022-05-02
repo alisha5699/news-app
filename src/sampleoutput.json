@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Julia Goldberg",
+      "title": "Wildfire’s Rapid Spread Worries New Mexico Officials - The New York Times",
+      "description": "The fire authorities in the state were bracing for more high winds, more smoke and more evacuees.",
+      "url": "https://www.nytimes.com/2022/05/01/us/new-mexico-wildfire.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/05/01/world/01new-mexico-fire1/01new-mexico-fire1-facebookJumbo.jpg",
+      "publishedAt": "2022-05-01T13:47:15Z",
+      "content": "Because of the ongoing danger, county officials have been unable to provide a full accounting of how many structures have been destroyed or damaged. But Joy Ansley, the county manager for San Miguel … [+1673 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Trevor Noah's top White House Correspondents Dinner moments - POLITICO - POLITICO",
+      "description": "The headliner quipped that it was his “great honor” to speak at the “nation’s most distinguished super-spreader event.”",
+      "url": "https://www.politico.com/news/2022/05/01/trevor-noah-white-house-correspondents-highlights-best-moments-00029073",
+      "urlToImage": "https://static.politico.com/6e/24/de8fe01a4c6a997c06607cc564cd/biden-correspondents-dinner-02722.jpg",
+      "publishedAt": "2022-05-01T13:07:05Z",
+      "content": "Trevor Noah, host of Comedy Central's \"The Daily Show,\" speaks at the annual White House Correspondents' Association dinner, Saturday, April 30, 2022, in Washington. | Patrick Semansky/AP Photo\r\nBy M… [+584 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "As Beijing tightens COVID curbs, hard-hit Shanghai sees signs of life - Reuters.com",
+      "description": "The Chinese capital Beijing tightened COVID restrictions on Sunday as it battled an outbreak, while Shanghai let more of its 25 million residents venture out for light and air after reporting a second day of zero infections outside of quarantine areas.",
+      "url": "https://www.reuters.com/world/china/mainland-china-reports-8329-new-covid-cases-april-30-vs-10793-day-earlier-2022-05-01/",
+      "urlToImage": "https://www.reuters.com/resizer/hy6vPLrYF_SFp1YDyY4nSV-OdYE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CAISWNI7MVN7TC7MVYZJ6TRHMU.jpg",
+      "publishedAt": "2022-05-01T12:46:00Z",
+      "content": "BEIJING/SHANGHAI, May 1 (Reuters) - The Chinese capital Beijing tightened COVID restrictions on Sunday as it battled an outbreak, while Shanghai let more of its 25 million residents venture out for l… [+4839 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Andy Rose, Christina Maxouris",
+      "title": "Country music legend Naomi Judd, one half of The Judds, dies age 76 - CNN",
+      "description": "Country music legend Naomi Judd -- one half of the duo The Judds -- has died, her daughter Ashley Judd announced Saturday.",
+      "url": "https://www.cnn.com/2022/04/30/entertainment/naomi-judd-death-mental-illness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220430150328-01-naomi-judd-obit.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-05-01T12:31:00Z",
+      "content": "Country music legend Naomi Judd one half of the duo The Judds has died, her daughter Ashley Judd announced Saturday. \r\nShe was 76.\r\nToday we sisters experienced a tragedy. We lost our beautiful mothe… [+3131 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Sean Hollister, Emma Roth",
+      "title": "Razer co-founder and gaming mouse inventor Robert Krakoff has passed away - The Verge",
+      "description": "Robert Krakoff, a Razer co-founder and president emeritus died at age 81. Krakoff sold the first gaming mouse in 1999, called the Razer Boomslang.",
+      "url": "https://www.theverge.com/23050951/razer-co-founder-robert-krakoff-passed-away-razerguy",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FteZ_bawuxlyaqikV4ln8-EUd7Y=/0x215:900x686/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23430280/FRamNgyaMAAww0l.png",
+      "publishedAt": "2022-05-01T12:23:04Z",
+      "content": "Before Razer the company, there was Razerguy\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nRobert Razerguy Krakoff\r\nImage: Razer\r\nRobert Razergu… [+5160 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Www.geo.tv" },
+      "author": "Web Desk",
+      "title": "Khloé Kardashian gushes over Kim Kardashians red carpet look at WH dinner - Geo News",
+      "description": "Khloé Kardashian pours compliments on Kim Kardashian's glam look from the White House Correspondents´ Dinner",
+      "url": "https://www.geo.tv/latest/414722-khloe-kardashian-gushes-over-kim-kardashians-red-carpet-look-at-wh-dinner",
+      "urlToImage": "https://www.geo.tv/assets/uploads/updates/2022-05-01/414722_051042_updates.jpg",
+      "publishedAt": "2022-05-01T12:08:00Z",
+      "content": "Kim Kardashian looked jaw-dropping gorgeous as she walked the red carpet for the White House Correspondents' Dinner 2022 along with her boyfriend Pete Davidson.\r\nThe pair turned heads as they made th… [+912 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "I would argue Buffett's and Munger's views on crypto are overly rigid at this point, says CNBC's Son - CNBC Television",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcsvlWczK8dk",
+      "urlToImage": null,
+      "publishedAt": "2022-05-01T12:03:40Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Alia Shoaib",
+      "title": "A Russian general who commanded electronic warfare units was killed in a strike that killed 100 soldiers, top Ukraine official says - Yahoo News",
+      "description": "Maj. Gen. Andrei Simonov was reportedly killed when Ukrainian forces bombarded a Russian command post near the city of Izyum.",
+      "url": "https://www.businessinsider.com/russian-general-killed-along-side-100-of-his-soldiers-ukraine-claims-2022-5",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FJz0M2oJKXDzoL.zbExxSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/uu/api/res/1.2/6_FHTzoi0OrXSApy0MInFw--~B/aD0yMDc4O3c9Mjc3MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/c0cc2dc34d017c0fd8c565c6b0fcc96e",
+      "publishedAt": "2022-05-01T11:54:47Z",
+      "content": "Ukrainian soldiers stand on an armoured personnel carrier (APC), not far from the front-line with Russian troops, in Izyum district, Kharkiv region on April 18, 2022.Anatolii Stepanov/AFP via Getty I… [+1991 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Manhunt underway for missing inmate and corrections officer in Alabama - CNN",
+      "description": "A manhunt is underway for Vicki White, a corrections officer in  Lauderdale County Alabama, and Casey White, an inmate charged with capital murder. Officials say  Officer White transported the inmate alone Friday morning, against protocol, for a health evalua…",
+      "url": "https://www.cnn.com/videos/us/2022/05/01/alabama-officer-inmate-manhunt-romero-ndwknd-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220501071557-vicki-white-casey-white-super-tease.jpg",
+      "publishedAt": "2022-05-01T11:51:10Z",
+      "content": ""
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Michelle Watson and Eliza Mackintosh, CNN",
+      "title": "Pelosi makes unannounced trip to Kyiv, becoming highest-ranking US official to meet with Zelensky since the war began - CNN",
+      "description": "House Speaker Nancy Pelosi made an unannounced trip to the Ukrainian capital on Saturday, becoming the most senior United States official to meet with President Volodymyr Zelensky since the war broke out more than two months ago.",
+      "url": "https://www.cnn.com/2022/05/01/politics/pelosi-zelensky-kyiv-ukraine-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220501015904-zelensky-pelosi-kyiv-050122-super-tease.jpg",
+      "publishedAt": "2022-05-01T11:43:00Z",
+      "content": "(CNN)House Speaker Nancy Pelosi made an unannounced trip to the Ukrainian capital on Saturday, becoming the most senior United States official to meet with President Volodymyr Zelensky since the war … [+4644 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Ayelet Sheffey",
+      "title": "Income-driven payment plans failed to give student-loan borrowers relief - Business Insider",
+      "description": "Income-driven repayment plans are meant to make monthly payments manageable for low-income borrowers. The GAO identified major flaws.",
+      "url": "https://www.businessinsider.com/student-loan-debt-forgiveness-income-driven-repayment-failures-gao-biden-2022-4",
+      "urlToImage": "https://i.insider.com/62619923db73840018a57324?width=1200&format=jpeg",
+      "publishedAt": "2022-05-01T11:23:51Z",
+      "content": "The student-loan industry has been full of bureaucratic hurdles for millions of borrowers since its inception and a new government report revealed there's still a lot of work to be done.\r\nA recent ar… [+6549 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Russia-Ukraine war: Civilians evacuate Mariupol’s Azovstal plant - Al Jazeera English",
+      "description": "Civilians brought out of Azovstal after a night of heavy Russian attacks on the last Ukrainian stronghold in Mariupol.",
+      "url": "https://www.aljazeera.com/news/2022/5/1/russia-ukraine-war-civilians-evacuate-mariupols-azovstal-plant",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-04-29T195308Z_1167442490_RC21XT9N1K60_RTRMADP_3_UKRAINE-CRISIS-MARIUPOL.jpg?resize=1200%2C630",
+      "publishedAt": "2022-05-01T09:11:15Z",
+      "content": "Doznes of people have been evacuated from a steel plant in the pulverised city of Mariupol, including women and children.\r\nTwo groups of civilians left the residential area around the Azovstal steelw… [+4270 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Niners Nation" },
+      "author": "Yinon Raviv",
+      "title": "49ers News: Sorting through Day 3 picks/UDFA class - Niners Nation",
+      "description": "Your daily San Francisco 49ers news for Sunday, May 1st, 2022",
+      "url": "https://www.ninersnation.com/2022/5/1/23051446/49ers-news-nfl-draft-day-three-udfa-undrafted-jason-poe-offensive-line-safety-rookies-picks-lance",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/MjCRQArL-qnwYgin4RUFOyIy3A0=/0x286:1200x914/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23430130/d9089af5_8dc9_4f7b_90d8_ead734c1c47a.jpg",
+      "publishedAt": "2022-05-01T09:00:00Z",
+      "content": "Kawakami: Nothing was even remotely close the 49ers didnt trade Deebo Samuel, but the standoff remains (paywall)\r\nIve reported a few times that I believe this is mostly a money situation. Samuel, bel… [+8679 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Reuters",
+      "title": "Twitter CEO faces employee anger over Musk attacks at company-wide meeting - Fox Business",
+      "description": "Twitter Chief Executive Parag Agrawal sought to quell employee anger on Friday during a company-wide meeting where employees demanded answers to how managers planned to handle an anticipated mass exodus prompted by Elon Musk.",
+      "url": "https://www.foxbusiness.com/technology/twitter-ceo-faces-employee-anger-over-musk-attacks-at-company-wide-meeting",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/0/0/Parag-Agarwal-Twitter-CEO.jpg?ve=1&tl=1",
+      "publishedAt": "2022-05-01T07:57:12Z",
+      "content": "Twitter Chief Executive Parag Agrawal sought to quell employee anger on Friday during a company-wide meeting where employees demanded answers to how managers planned to handle an anticipated mass exo… [+4115 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Patrick Reilly",
+      "title": "Mass shooting at Mississippi crawfish festival leaves 1 dead, 5 hurt - New York Post ",
+      "description": "At least two people have been detained in connection to the mass shooting, but several shooters are believed to have been involved, the sheriff said.",
+      "url": "https://nypost.com/2022/05/01/mass-shooting-at-mississippi-mudbug-festival-leaves-1-dead-5-hurt/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/05/newspress-collage-22099893-1651387429121.jpg?quality=75&strip=all&1651375125&w=1024",
+      "publishedAt": "2022-05-01T07:47:00Z",
+      "content": "At least one person is dead and five others wounded after a mass shooting Saturday night at the Mudbug Festival at the Mississippi State Fairgrounds in Jackson, officials said.\r\nAt least two people h… [+2381 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Kevin Iole",
+      "title": "Shakur Stevenson's biggest moment interrupted by ugly scene at post-fight news conference - Yahoo Sports",
+      "description": "Stevenson lost his moment in the sun because of it, though he was brilliant enough in the ring before a national audience on ESPN that his words at a news...",
+      "url": "https://sports.yahoo.com/shakur-stevensons-biggest-moment-interrupted-by-ugly-scene-at-post-fight-news-conference-073042223.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6xinCVT4oCk84mvLidu4_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-04/6a8859e0-c920-11ec-be42-93b1a1119667",
+      "publishedAt": "2022-05-01T07:30:42Z",
+      "content": "From the day he turned pro, this kind of performance from Shakur Stevenson was inevitable. Hes the kind of guy who can dominate boxing for a decade or more. He understands the game at a level few do.… [+4793 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Beast" },
+      "author": "Pilar Melendez",
+      "title": "Johnny Depp and Amber Heard Trial Includes Christian Carino, ex-Lady GAGA Fiasco on Elon Musk, and Others - The Daily Beast",
+      "description": "In arguing that his ex-wife Amber Heard defamed him, the actor accused of abuse has called on a curious cast of characters.",
+      "url": "https://www.thedailybeast.com/johnny-depp-and-amber-heard-trial-includes-christian-carino-ex-lady-gaga-fiasco-on-elon-musk-and-others",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1651343898/220430-Melendez-Witnesses-JohnnyDepp-tease_ppmsbt",
+      "publishedAt": "2022-05-01T06:26:49Z",
+      "content": "For three weeks, 12 jurors, a gallery of spectators, and hordes of online sleuths have been watching virtually every moment of the $50 million defamation saga between Johnny Depp and Amber Heard in V… [+10186 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MMA Fighting" },
+      "author": "MMA Fighting Newswire",
+      "title": "UFC Vegas 53 post-fight bonuses: Marlon Vera, Rob Font win ‘Fight of the Night’ honors - MMA Fighting",
+      "description": "The bantamweight slugfest in UFC Vegas 53’s headliner earned both fighters an additional $50,000.",
+      "url": "https://www.mmafighting.com/2022/4/30/23051431/ufc-vegas-53-post-fight-bonuses-marlon-vera-rob-font-win-fight-of-the-night-honors",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ogAyZUAPFtvXCjPfQH8XiKysJ90=/0x0:4140x2168/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23429992/1394702065.jpg",
+      "publishedAt": "2022-05-01T03:22:11Z",
+      "content": "Marlon Vera and Rob Font each took home an additional $50,000 after being awarded Fight of the Night for their five-round slugfest in UFC Vegas 53s headliner. \r\nVera and Font went toe-to-toe for 25 m… [+707 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Journalist seeks answers from a one-time Texas attorney with ties to five dead men - CBS News",
+      "description": "Catherine Shelton's life – and her proximity to dead or injured men – has perplexed investigators for decades. After years of a cat and mouse game with a former \"48 Hours\" producer, will she admit anything?",
+      "url": "https://www.cbsnews.com/news/catherine-shelton-former-texas-attorney-ties-to-five-dead-men-48-hours/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/01/bf06cb3e-0045-400d-9aa9-a7ac5f2436ce/thumbnail/1200x630/3b2e26e5a2eeaa4206e8499d73c64551/shelton-jenna-hero.png",
+      "publishedAt": "2022-05-01T03:22:00Z",
+      "content": "\"48 Hours\" has been covering the controversy surrounding a former Texas defense attorney for two decades. Say the name Catherine Shelton and you are guaranteed to get plenty of stories and opinions f… [+35324 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Three OU students killed in crash on way back home from storm chasing - WFAA",
+      "description": "A 20-year-old from Denton, Texas was among three OU students who died in a car crash while on their way back home from storm chasing in Kansas, officials say.",
+      "url": "https://www.youtube.com/watch?v=ZhtGmXhw0VA",
+      "urlToImage": "https://i.ytimg.com/vi/ZhtGmXhw0VA/hqdefault.jpg",
+      "publishedAt": "2022-05-01T03:21:13Z",
+      "content": null
+    }
+  ]
+}
