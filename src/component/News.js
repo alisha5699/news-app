@@ -18,7 +18,7 @@ const News = (props) => {
   const[totalResults, setTotalResults] = useState(0)
 
    
-  // document.title=`${props.category}-News`;
+ 
 
 
 
@@ -39,6 +39,7 @@ const News = (props) => {
   }
 
 useEffect(()=>{
+   document.title=`${props.category}-News`;
   updateNews();
 }, [])
 
